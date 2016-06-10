@@ -1,0 +1,7 @@
+---
+layout: post
+title: New Blog!
+---
+
+Starting a new blog which is statically generated and hosted on [GitHub Pages](https://pages.github.com/). The code for the site can be found [here](https://github.com/nandansaha/nandansaha.github.io).
+
