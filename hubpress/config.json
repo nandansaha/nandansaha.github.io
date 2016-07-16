@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "nandansaha": "put your username here",
+    "AroundTheWeb": "put your repository name here",
+    "branch": "gh-pages",
+    "cname": "nandan.io"
+  },
+  "theme": {
+    "name": "Casper"
+  }
+}
